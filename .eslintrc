@@ -1,0 +1,11 @@
+{
+    "$schema": "http://json.schemastore.org/eslintrc",
+    "rules": {
+      "no-unused-vars": "error"
+    },
+    "extends": ["recommended/esnext"],
+    "root": true,
+    "env": {
+      "browser": true
+    }
+  }
